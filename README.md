@@ -1,4 +1,4 @@
-<h3 align="center">Hey 👋<br> I am Ajas Sharafudeen<br>Your Next Software Engineer</h3>
+<h3 align="center">Hey 👋<br> I am Ajas Sharafudeen<br>MERN Stack Developer</h3>
 
 ###
 
