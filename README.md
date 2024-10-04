@@ -37,13 +37,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ajas-sharafudeen&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ajas-sharafudeen&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1&custom_title=Current%20Stats" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<div align="center">
   <img height="45" src="https://www.codewars.com/users/ajas-sharafudeen/badges/large"  />
 </div>
 
